@@ -27,7 +27,7 @@ setup(
     name='maker',
     version='0.1.4',
     author='MongoLab Team, Greg Banks',
-    author_email='quaid@kuato.info',
+    author_email='quaid@kuatowares.com',
     description='maker for python',
     long_description="maker for python",
     packages=[
